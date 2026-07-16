@@ -1,0 +1,202 @@
+
+#iegi{
+  background-repeat:repeat;
+  background-attachment:scroll;
+  background-size:400px 400px;
+  background-position-x:left;
+  background-position-y:top;
+  background-image:url(../media/home-background.jpg);
+  background-color:#a2bcce;
+
+}
+#imw9{
+  color:black;
+  float:none;
+  margin:0px auto 0px auto;
+  width:100%;
+  display:block;
+  max-width:450px;
+  border-top-width:0px;
+  border-right-width:0px;
+  border-bottom-width:0px;
+  border-left-width:0px;
+  border-top-style:solid;
+  border-right-style:solid;
+  border-bottom-style:solid;
+  border-left-style:solid;
+  border-top-color:black;
+  border-right-color:black;
+  border-bottom-color:black;
+  border-left-color:black;
+  border-image-source:none;
+  border-image-slice:100%;
+  border-image-width:1;
+  border-image-outset:0;
+  border-image-repeat:stretch;
+}
+.gjs-row{
+  display:table;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  width:100%;
+}
+.gjs-cell{
+  width:8%;
+  display:table-cell;
+  height:75px;
+}
+#ivtrr{
+  padding-top:0px;
+  padding-right:0px;
+  padding-bottom:0px;
+  padding-left:0px;
+}
+.bdg-sect{
+  background-color: none;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  padding-top:0px;
+  padding-right:50px;
+  padding-bottom:1px;
+  padding-left:50px;
+  margin-top:0px;
+  margin-right:400px;
+  margin-bottom:0px;
+  margin-left:400px;
+  position:absolute;
+  display:inline;
+}
+#i4vnt{
+  padding-top:0px;
+  padding-right:0px;
+  padding-bottom:0px;
+  padding-left:0px;
+  margin-top:0px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-left:0px;
+}
+#imc34{
+  padding-top:10px;
+  padding-right:0px;
+  padding-bottom:10px;
+  padding-left:10px;
+  text-align:center;
+  background-color:rgb(202, 194, 167);
+  font-weight:400;
+  font-family:"Times New Roman", Times, serif;
+  font-size:30px;
+  opacity:1;
+  border-top-width:2px;
+  border-right-width:2px;
+  border-bottom-width:2px;
+  border-left-width:2px;
+  border-top-style:dotted;
+  border-right-style:dotted;
+  border-bottom-style:dotted;
+  border-left-style:dotted;
+  border-top-color:black;
+  border-right-color:black;
+  border-bottom-color:black;
+  border-left-color:black;
+  border-image-source:none;
+  border-image-slice:100%;
+  border-image-width:1;
+  border-image-outset:0;
+  border-image-repeat:stretch;
+  float:none;
+  color:rgb(0, 0, 0);
+  margin-top:0px;
+  margin-right:26%;
+  margin-bottom:0px;
+  margin-left:26%;
+}
+#iyrhc{
+  color:rgb(83, 83, 83);
+  font-family:"Times New Roman", Times, serif;
+}
+#isxfe{
+  color:rgb(83, 83, 83);
+  font-weight:500;
+  font-family:"Times New Roman", Times, serif;
+}
+#i2o7y{
+  color:rgb(83, 83, 83);
+  font-family:"Times New Roman", Times, serif;
+}
+@media (max-width: 992px){
+  #imw9{
+	max-width:450px;
+  }
+  #iegi{
+    background-image:url(../media/home-background.jpg);
+  	background-repeat:repeat;
+	background-position-x:left;
+	background-position-y:top;
+	background-attachment:scroll;
+	background-size:400px 400px;
+      background-color:#a2bcce;
+
+  }
+  .bdg-sect{
+	margin-top:0px;
+	margin-right:100px;
+	margin-bottom:0px;
+	margin-left:100px;
+  }
+  #imc34{
+	margin-top:0px;
+	margin-right:25%;
+	margin-bottom:0px;
+	margin-left:25%;
+  }
+}
+@media (max-width: 768px){
+  .gjs-cell{
+	width:100%;
+	display:block;
+  }
+}
+@media (max-width: 480px){
+  #imw9{
+	max-width:450px;
+  }
+  #iegi{
+    background-image:url(../media/home-background.jpg);
+	background-repeat:repeat;
+	background-position-x:left;
+	background-position-y:top;
+	background-attachment:scroll;
+	background-size:280px 280px;
+    background-color:#a2bcce;
+
+  }
+  .bdg-sect{
+	padding-top:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+	padding-left:0px;
+	background-color:rgba(207, 130, 130, 0);
+	margin-top:0px;
+	margin-right:10px;
+	margin-bottom:0px;
+	margin-left:10px;
+  }
+  #i4vnt{
+	padding-top:0px;
+	padding-right:10px;
+	padding-bottom:0px;
+	padding-left:10px;
+  }
+  #imc34{
+	text-align:center;
+	margin-top:0px;
+	margin-right:22%;
+	margin-bottom:0px;
+	margin-left:22%;
+  }
+}

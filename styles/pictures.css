@@ -1,0 +1,271 @@
+
+#iegi{
+  background-image:unset;
+  background-repeat:unset;
+  background-attachment:unset;
+  background-size:unset;
+  background-position-x:left;
+  background-position-y:top;
+  background-position:unset;
+  background-color:#cac2a7;
+}
+.gjs-row{
+  display:table;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  width:100%;
+}
+.gjs-cell{
+  width:8%;
+  display:table-cell;
+  height:75px;
+}
+#ivtrr{
+  padding-top:0px;
+  padding-right:0px;
+  padding-bottom:0px;
+  padding-left:0px;
+}
+#i2hxt{
+  height:auto;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+}
+#idbog{
+  color:black;
+  width:100%;
+  text-align:center;
+  max-width:1400px;
+  float:left;
+  box-shadow:4px 8px 10px -3px #8d7964 ;
+}
+#i124yb{
+  padding:10px;
+}
+#ihwbed{
+  color:#535353;
+  font-size:30px;
+}
+#i88t37{
+  text-align:center;
+}
+#i3t6fk{
+  color:black;
+  width:100%;
+  text-align:center;
+  max-width:650px;
+  float:left;
+  box-shadow:4px 8px 10px -3px #8d7964 ;
+}
+#imonfr{
+  height:auto;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+}
+#iz65ui{
+  color:black;
+  width:100%;
+  text-align:center;
+  max-width:800px;
+  float:left;
+  box-shadow:4px 8px 10px -3px #8d7964 ;
+}
+#iehubz{
+  height:auto;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+}
+#ind0w5{
+  color:black;
+  width:100%;
+  text-align:center;
+  max-width:700px;
+  float:left;
+  box-shadow:4px 8px 10px -3px #8d7964 ;
+}
+#iw4gp3{
+  height:auto;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+}
+#iqjeez{
+  color:black;
+  width:100%;
+  text-align:center;
+  max-width:600px;
+  float:left;
+  box-shadow:4px 8px 10px -3px #8d7964 ;
+}
+#iib9cc{
+  height:auto;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+}
+#ibv454{
+  padding:10px;
+  color:#918b79;
+  font-family:Times New Roman, Times, serif;
+  text-align:center;
+}
+@media (max-width: 992px){
+  #iegi{
+    background-position-x:left;
+    background-position-y:top;
+    background-color:#cac2a7;
+    background-image:unset;
+    background-repeat:unset;
+    background-position:unset;
+    background-attachment:unset;
+    background-size:unset;
+  }
+  #i2hxt{
+    height:auto;
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+  }
+  #idbog{
+    max-width:700px;
+  }
+  #i124yb{
+    text-align:center;
+  }
+  #ihwbed{
+    font-size:30px;
+    font-family:Times New Roman, Times, serif;
+    color:#535353;
+  }
+  #i3t6fk{
+    max-width:700px;
+  }
+  #imonfr{
+    height:auto;
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+  }
+  #iz65ui{
+    max-width:700px;
+  }
+  #iehubz{
+    height:auto;
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+  }
+  #ind0w5{
+    max-width:800px;
+  }
+  #iw4gp3{
+    height:auto;
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+  }
+  #iqjeez{
+    max-width:600px;
+  }
+  #iib9cc{
+    height:auto;
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+  }
+}
+@media (max-width: 768px){
+  .gjs-cell{
+    width:100%;
+    display:block;
+  }
+}
+@media (max-width: 480px){
+  #iegi{
+    background-position-x:left;
+    background-position-y:top;
+  }
+  #i2hxt{
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:0px;
+    padding-left:0px;
+    height:auto;
+  }
+  #idbog{
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+  }
+  #i3t6fk{
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+  }
+  #imonfr{
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:0px;
+    padding-left:0px;
+    height:auto;
+  }
+  #iz65ui{
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+  }
+  #iehubz{
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:0px;
+    padding-left:0px;
+    height:auto;
+  }
+  #ind0w5{
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+  }
+  #iw4gp3{
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:0px;
+    padding-left:0px;
+    height:auto;
+  }
+  #iqjeez{
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+  }
+  #iib9cc{
+    padding-top:0px;
+    padding-right:0px;
+    padding-bottom:0px;
+    padding-left:0px;
+    height:auto;
+  }
+  #ibv454{
+    color:#918b79;
+  }
+}
