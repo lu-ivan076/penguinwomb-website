@@ -1,18 +1,24 @@
-
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
 #iegi{
   background-repeat:repeat;
   background-attachment:scroll;
   background-size:400px 400px;
   background-position-x:left;
   background-position-y:top;
-  background-image:url(../media/home-background.jpg);
-  background-color:#a2bcce;
-
+  background-image:url("../media/home-background.jpg");
 }
 #imw9{
   color:black;
   float:none;
-  margin:0px auto 0px auto;
+  margin-top:0px;
+  margin-right:auto;
+  margin-bottom:0px;
+  margin-left:auto;
   width:100%;
   display:block;
   max-width:450px;
@@ -54,7 +60,6 @@
   padding-left:0px;
 }
 .bdg-sect{
-  background-color: none;
   border-top-left-radius:0px;
   border-top-right-radius:0px;
   border-bottom-right-radius:0px;
@@ -132,14 +137,13 @@
 	max-width:450px;
   }
   #iegi{
-    background-image:url(../media/home-background.jpg);
-  	background-repeat:repeat;
+	background-image:url("../media/home-background.jpg");
+	background-repeat:repeat;
 	background-position-x:left;
 	background-position-y:top;
 	background-attachment:scroll;
 	background-size:400px 400px;
-      background-color:#a2bcce;
-
+	background-color:rgb(162, 188, 206);
   }
   .bdg-sect{
 	margin-top:0px;
@@ -165,14 +169,13 @@
 	max-width:450px;
   }
   #iegi{
-    background-image:url(../media/home-background.jpg);
+	background-image:url("../media/home-background.jpg");
 	background-repeat:repeat;
 	background-position-x:left;
 	background-position-y:top;
 	background-attachment:scroll;
 	background-size:280px 280px;
-    background-color:#a2bcce;
-
+	background-color:rgb(162, 188, 206);
   }
   .bdg-sect{
 	padding-top:0px;
