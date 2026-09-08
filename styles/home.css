@@ -4,6 +4,15 @@
 body {
   margin: 0;
 }
+*{
+  box-sizing:border-box;
+}
+body{
+  margin-top:0px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-left:0px;
+}
 #iegi{
   background-repeat:repeat;
   background-attachment:scroll;
@@ -11,6 +20,7 @@ body {
   background-position-x:left;
   background-position-y:top;
   background-image:url("../media/home-background.jpg");
+  background-color:#a2bcce;
 }
 #imw9{
   color:black;
